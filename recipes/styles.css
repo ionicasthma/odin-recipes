@@ -1,0 +1,89 @@
+ 
+#page {
+background-color: goldenrod;
+text-align: center;
+
+
+
+
+}
+
+.homepage-title {
+    border: 2px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: 40px;
+    background-color: gold;
+     
+
+}
+
+.links > li {
+
+    padding: 50px;
+    border: 1px solid black;
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+     
+}
+
+p {
+    border: 2px solid;
+    background-color: goldenrod;
+}
+
+ul {
+list-style-type: none;
+}
+
+ol {
+    list-style: none;
+}
+
+h1 {
+    border: 4px solid;
+    background-color: greenyellow;
+}
+
+
+
+
+
+
+
+
+
+/* ul {
+    border: 1px solid;  
+    margin: 50px;
+    padding: 30px;
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+ } */
+
+  
+
+/*  
+a {
+    font-size: 20px;
+    color: blue;
+    text-decoration: none;
+}  
+
+   */
+
+ 
+ 
+  
+  
+
+ 
+
+
+
+ 
+ 
+
+
