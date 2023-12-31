@@ -4,16 +4,15 @@ background-color: goldenrod;
 text-align: center;
 
 
-
-
 }
-
 .homepage-title {
     border: 2px solid black;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    margin-left: 40px;
+    margin: 10px 0px;
+
     background-color: gold;
+    
      
 
 }
@@ -24,6 +23,7 @@ text-align: center;
     border: 1px solid black;
     list-style: none;
     font-family: 'Courier New', Courier, monospace;
+    
      
 }
 
